@@ -1,2 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/v5lfm85n1j0o9cwr?svg=true)](https://ci.appveyor.com/project/KolbinGeorgy/api-ci)
-
+[![Build status](https://ci.appveyor.com/api/projects/status/tdmbbyoq7xxw37g4?svg=true)](https://ci.appveyor.com/project/KolbinGeorgy/postmanecho)
